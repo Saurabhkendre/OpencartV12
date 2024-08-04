@@ -1,0 +1,14 @@
+2024-08-01 11:48:47 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Automation\myWorkspace\seleniumWebdriver\OpencartV12\master.xml
+
+2024-08-01 11:48:50 INFO  TC002_LoginTest:16 -
+			**** Starting TC_002_LoginTest ****
+2024-08-01 11:48:50 INFO  TC002_LoginTest:22 -
+			Clicked on MyAccount link...
+2024-08-01 11:48:51 INFO  TC002_LoginTest:25 -
+			Clicked on login link...
+2024-08-01 11:48:51 INFO  TC002_LoginTest:29 -
+			Providing customer details...
+2024-08-01 11:48:52 INFO  TC002_LoginTest:46 -
+			**** Finished TC_002_LoginTest ****
